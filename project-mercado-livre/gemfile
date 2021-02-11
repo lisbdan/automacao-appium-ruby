@@ -1,0 +1,16 @@
+source 'http://rubygems.org'
+
+gem 'capybara'
+gem "allure-cucumber"
+gem "appium_lib"
+gem "allure-rspec"
+gem "appium_console"
+gem "yard-cucumber"
+gem "ruby-debug-ide"
+gem 'cucumber'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism', '2.13'
+gem 'pry', '~> 0.13.1'
+gem 'rake'
+gem 'page-object'

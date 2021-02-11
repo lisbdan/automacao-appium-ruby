@@ -1,0 +1,7 @@
+default: -p pretty -p homolog -p cucumber_share -p html
+
+pretty: --format pretty
+homolog: ENVIRONMENT=homolog 
+cucumber_share: --publish-quiet 
+html: --format html --out=report/relatorio.html
+  

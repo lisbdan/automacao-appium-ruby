@@ -1,0 +1,5 @@
+#Home page
+select_regiao: input[id="region"]
+button_open_filter: button[id="open-close"]
+regiao_sp: option[value="28"]
+lab_delbone: data-node-id="124"
